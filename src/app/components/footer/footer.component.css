@@ -1,0 +1,10 @@
+.container__footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.container__footer > p {
+    color: gray;
+    font-size: 0.75em;
+}
